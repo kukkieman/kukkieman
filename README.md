@@ -1,10 +1,10 @@
 ## Nani?! How did you find me? 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a secret project
+- 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with music visualizers (using FFT)
 - 🥅 2020 Goals: Fill my Contribution Graph
-- ⚡ Fun fact: I love acting and writing stories
+- ⚡ Fun fact: I love theatre, stories and cinema!
 
 ### Connect with me:
 
