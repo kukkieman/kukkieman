@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with music visualizers (using FFT/OpenGL)
 - 🥅 2020 Goals: Fill up my Contribution Graph
-- ⚡ Fun fact: I love theatre, stories and cinema!
+- ⚡ Fun fact: I love theatre, stories & cinema!
 
 ### Connect with me:
 
