@@ -1,4 +1,4 @@
-## Nani?! How did you find me? 👋
+## Nani?! How did you find me? :exclamation:
 
 - 🔭 I’m currently working on a secret project
 - 🌱 I’m currently learning JavaScript
