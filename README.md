@@ -1,7 +1,5 @@
 ## Nani?! How did you find me? :exclamation:
 
-//![Gintoki]: (https://tenor.com/view/oh-gintama-gintoki-gif-4608229.gif)
-
 - 🔭 I’m currently working on a secret project
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with music visualizers (using FFT/OpenGL)
