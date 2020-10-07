@@ -1,6 +1,6 @@
 ## Nani:exclamation: How did you find me? 
 
-- 🔭 I’m currently working on a secret project
+- 🔭 I’m currently working on a secret project using raylib
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with music visualizers (using FFT/OpenGL)
 - 🥅 2020 Goals: Fill up my Contribution Graph
