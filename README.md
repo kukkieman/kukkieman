@@ -1,4 +1,4 @@
-## Nani:exclamation: How did you find me? 
+## Nani:question::exclamation: How did you find me? 
 
 - 🔭 I’m currently working on a secret project using raylib
 - 🌱 I’m currently learning JavaScript
