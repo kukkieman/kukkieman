@@ -16,4 +16,5 @@
 [website]: https://www.instagram.com/paradigmrevived/channel/?hl=en
 [youtube]: https://www.youtube.com/channel/UCIO32aKNjIo7wfTlEMVU0Pg
 [instagram]: https://www.instagram.com/kukkie.man/
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]: https://www.instagram.com/kukkie.man/
 [linkedin]: https://www.linkedin.com/in/rishabh1521/
