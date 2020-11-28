@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Fill up my Contribution Graph
 - ⚡ Fun fact: I love theatre, stories & cinema!
 
-### Connect with me:
+### Get in touch with me:
 
 <a href="https://www.instagram.com/kukkie.man/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
