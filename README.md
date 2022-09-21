@@ -1,9 +1,6 @@
 ## Nani:question::exclamation: How did you find me:question:
 
 - 🔭 I’m currently working on multiple game projects on Unity & Unreal Engines
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with raylib.h and 2D Collision+Movement Scripting in Unity
-- 🥅 2020 Goals: Fill up my Contribution Graph
 - ⚡ Fun fact: I love theatre, stories & cinema!
 
 ### Get in touch with me:
