@@ -1,4 +1,4 @@
-## Nani :question: :exclamation: How did you find me :question:
+## Nani:question::exclamation: How did you find me:question:
 
 - 🔭 I’m currently working on multiple game projects on Unity & Unreal Engines
 - ⚡ Fun fact: I love theatre, stories & cinema!
